@@ -1,0 +1,3 @@
+crear repositorio en git
+git init 
+
